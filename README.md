@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @satyambabu1400
 - 👀 I’m interested in ...reading
 - 🌱 I’m currently learning ...b.tech computer science engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...just massage me
 
 <!---
